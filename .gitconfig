@@ -1,0 +1,13 @@
+[user]
+    name = Martin Waltman
+    email = martin@mkwiseman.com
+[alias]
+    a = add
+    b = branch -v
+    c = commit
+    co = checkout
+    d = diff
+    f = fetch
+    lgp = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+    st = status
+    
